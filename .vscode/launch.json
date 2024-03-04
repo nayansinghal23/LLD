@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/Nayan Singhal/Desktop/oops",
-      "program": "c:/Users/Nayan Singhal/Desktop/oops/build/Debug/outDebug",
+      "cwd": "c:/Users/Nayan Singhal/Desktop/lld",
+      "program": "c:/Users/Nayan Singhal/Desktop/lld/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [

@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "nodemon --exec ts-node Solid/Example2/index.ts",
+    "dev": "nodemon --exec ts-node rule_engine/main.ts",
     "build": "tsc",
     "start": "node dist/Solid/Example2/index.js"
   },
